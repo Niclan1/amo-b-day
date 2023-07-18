@@ -266,7 +266,7 @@ body{
   top:19px;
 }
 .b1{
-  background-color: --light;
+  background-color: var(--light);
   width:28px;
   height:5.5px;
   border-radius:13px;
@@ -275,7 +275,7 @@ body{
   right: 1px;
 }
 .b2{
-  background-color: --light;
+  background-color:var(--light);
   width:28px;
   height:5.5px;
   border-radius:13px;
@@ -314,7 +314,7 @@ body{
   height:12px;
   width: 12px;
   border-radius: 50%;
-  background-color: --light;
+  background-color:var(--light);
   position: relative;
   bottom:14px;
   left:38px;
@@ -368,7 +368,7 @@ body{
   right:1.5px;
 }
 .bootl2{
-  background-color: --light;
+  background-color:var(--light);
   width:45px;
   height: 5px;
   border-radius:21px;
@@ -377,7 +377,7 @@ body{
   right: 1.5px;
 }
 .bootr2{
-  background-color: --light;
+  background-color:var(--light);
   width:45px;
   height: 5px;
   border-radius:21px;
